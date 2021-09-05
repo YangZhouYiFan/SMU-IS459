@@ -1,5 +1,7 @@
 Lecturer: Dr. Zhang Zhenjie
-=============================
+
+Vera Chua 01395373
+Lee Rui Peng 01336610
 Student: Teo Rue Quan, 01324478
 Po Qi Lin 01367782
 Jerriel 01346367
@@ -38,3 +40,7 @@ Remus Chan 01366054
 Ong Yan Ning 01350939
 Lim Hui An Shermin 01388634
 Yang ZhouYiFan 01375511
+Deborah Lee 01364883
+Faith Eng 01338462
+Chung Chee Yong 01340622
+Andrew Liew Khai Kit 01353207

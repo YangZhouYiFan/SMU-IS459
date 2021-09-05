@@ -1,0 +1,10 @@
+{
+  "namespace": "sg.edu.smu.is459.example",
+  "type": "record",
+  "name": "Post",
+  "fields": [
+    {"name": "topic", "type": "string"},
+    {"name": "author", "type": "string"},
+    {"name": "content", "type": "string"}
+  ]
+}
